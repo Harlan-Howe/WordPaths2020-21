@@ -39,8 +39,8 @@ class MyTestCase(unittest.TestCase):
         # Here are a few things to try: search for the neighbors of a word near the start of your list of words, from
         #      the end of the list, and in the middle.
 
-        # Note: for the subset, 'bins" should have 4 neighbors, 'bind' should have 3, and 'bots' should have 1
-        # Note: for the full set of four-letter words, 'bins" should have 26 neighbors, 'bind' should have 14, and 'bots' should have 23
+        # Note: for the subset, 'bins" should have 4 neighbors, 'bind' should have 3, and 'bots' should have 4
+        # Note: for the full set of four-letter words, 'bins" should have 26 neighbors, 'bind' should have 14, and 'bots' should have 27
         # Note: for the full set of four-letter words, 'acid' should have 4 neighbors, and 'zoom' should have 7 neighbors.
 
         # You might also wish to hand check that the neighbors really are neighbors of the source words!
